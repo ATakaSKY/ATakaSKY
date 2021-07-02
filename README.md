@@ -28,4 +28,9 @@ I am a fullstack software engineer from India
 
 # Blog Post Activity
 <!-- BLOG-POST-LIST:START -->
+- [Array.at() Will Change How We Access Array Values in JavaScript](https://javascript.plainenglish.io/array-at-will-change-how-we-access-array-values-in-javascript-517c3a13d505?source=rss-df77bef746c2------2)
+- [6 Quirky JavaScript and CSS Tricks You Should Know](https://javascript.plainenglish.io/6-quirky-javascript-and-css-tricks-you-should-know-a17c59c7ef22?source=rss-df77bef746c2------2)
+- [Flipping card on hover CSS](https://blog.devgenius.io/flipping-card-on-hover-css-8b57043e1dcc?source=rss-df77bef746c2------2)
+- [How to auto play/pause videos like Netflix](https://javascript.plainenglish.io/video-pause-play-like-netflix-8570f903e0ff?source=rss-df77bef746c2------2)
+- [Intersection Observer](https://javascript.plainenglish.io/intersection-observer-928a0ce309?source=rss-df77bef746c2------2)
 <!-- BLOG-POST-LIST:END -->
