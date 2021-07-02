@@ -24,3 +24,8 @@ I am a fullstack software engineer from India
 </div>
   <br>
 <br>
+
+
+# Blog Post Activity
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
