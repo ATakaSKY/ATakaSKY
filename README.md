@@ -26,7 +26,7 @@ I am a fullstack software engineer from India
 <br>
 <hr>
 
-## Blog Post Activity
+### Blog Post Activity
 <!-- BLOG-POST-LIST:START -->
 - [Array.at() Will Change How We Access Array Values in JavaScript](https://javascript.plainenglish.io/array-at-will-change-how-we-access-array-values-in-javascript-517c3a13d505?source=rss-df77bef746c2------2)
 - [6 Quirky JavaScript and CSS Tricks You Should Know](https://javascript.plainenglish.io/6-quirky-javascript-and-css-tricks-you-should-know-a17c59c7ef22?source=rss-df77bef746c2------2)
