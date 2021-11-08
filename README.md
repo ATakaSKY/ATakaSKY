@@ -29,7 +29,7 @@ I am a fullstack software engineer from India
 ### Blog Post Activity
 <!-- BLOG-POST-LIST:START -->
 - [Git Merging Strategies: A Simple Explanation and Guide](https://javascript.plainenglish.io/git-merging-strategies-a-simple-explanation-and-guide-9e7e508b369c?source=rss-df77bef746c2------2)
-- [Array.at() Will Change How We Access Array Values in JavaScript](https://javascript.plainenglish.io/array-at-will-change-how-we-access-array-values-in-javascript-517c3a13d505?source=rss-df77bef746c2------2)
+- [Array.at&lpar;&rpar; Will Change How We Access Array Values in JavaScript](https://javascript.plainenglish.io/array-at-will-change-how-we-access-array-values-in-javascript-517c3a13d505?source=rss-df77bef746c2------2)
 - [6 Quirky JavaScript and CSS Tricks You Should Know](https://javascript.plainenglish.io/6-quirky-javascript-and-css-tricks-you-should-know-a17c59c7ef22?source=rss-df77bef746c2------2)
 - [Flipping card on hover CSS](https://blog.devgenius.io/flipping-card-on-hover-css-8b57043e1dcc?source=rss-df77bef746c2------2)
 - [How to auto play/pause videos like Netflix](https://javascript.plainenglish.io/video-pause-play-like-netflix-8570f903e0ff?source=rss-df77bef746c2------2)
